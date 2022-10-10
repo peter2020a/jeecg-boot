@@ -9,3 +9,8 @@ rebel.xml
 
 ## front
 **/*.lock
+**/*.project
+**/*.prefs
+**/*.classpath
+**/*.factorypath
+d-xxljob/*.factorypath
